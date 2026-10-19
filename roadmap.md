@@ -1,0 +1,5 @@
+- [x] Remove unsafe demo assertions and restore typed tests.
+- [x] Enable action confirmations.
+- [x] Verify demo interactions, browser persistence, reset, and desktop/mobile layouts.
+- [ ] Add a dedicated detailed workspace and connect landing-page entry points.
+- [ ] Verify workspace navigation, project review, saved changes, and small-screen layout.
